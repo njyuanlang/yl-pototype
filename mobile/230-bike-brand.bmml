@@ -1,0 +1,23 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="411" measuredH="209" mockupW="222" mockupH="103">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="196" y="141" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>*%20%u5143%u6717%2C%20%3E%0A*%20%u6CDB%u76C8%2C%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="189" y="106" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="277" y="109" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u54C1%u724C%u5217%u8868</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
