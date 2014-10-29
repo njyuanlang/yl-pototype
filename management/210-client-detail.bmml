@@ -1,14 +1,5 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
-      <controlProperties>
-        <override controlID="0">
-          <selectedIndex>1</selectedIndex>
-          <text>%u63A7%u5236%u9762%u677F%0A%u5BA2%u6237%u7BA1%u7406%0A%u8F66%u8F86%u767B%u8BB0%0A%u8F66%u8F86%u884C%u9A76%u7BA1%u7406%0A%u8F66%u8F86%u5382%u5546%u7BA1%u7406</text>
-        </override>
-        <src>../../../InVision/gbo@extensivepro.com/yl-management/Assets/Source%20Files/assets/symbols.bmml#main%20frame</src>
-      </controlProperties>
-    </control>
     <control controlID="24" controlTypeID="com.balsamiq.mockups::Component" x="160" y="64" w="849" h="694" measuredW="849" measuredH="694" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#client%20list</src>
@@ -29,12 +20,12 @@
             <icon>CircledXIcon%7Cmedium</icon>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="110" y="131" w="319" h="-1" measuredW="95" measuredH="27" zOrder="3" locked="false" isInGroup="40">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="110" y="131" w="319" h="-1" measuredW="94" measuredH="26" zOrder="3" locked="false" isInGroup="40">
           <controlProperties>
             <text>13987654321</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="45" y="86" w="-1" h="-1" measuredW="164" measuredH="24" zOrder="4" locked="false" isInGroup="40">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="45" y="86" w="-1" h="-1" measuredW="162" measuredH="24" zOrder="4" locked="false" isInGroup="40">
           <controlProperties>
             <size>16</size>
             <text>%u7528%u6237%u540D%uFF1A13987654321</text>
@@ -46,13 +37,13 @@
             <text>%u8054%u7CFB%u7535%u8BDD%uFF1A</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="30" y="172" w="-1" h="-1" measuredW="172" measuredH="24" zOrder="6" locked="false" isInGroup="40">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="30" y="172" w="-1" h="-1" measuredW="167" measuredH="24" zOrder="6" locked="false" isInGroup="40">
           <controlProperties>
             <size>16</size>
             <text>%u6CE8%u518C%u65F6%u95F4%uFF1A%202014-05-30</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="30" y="236" w="561" h="143" measuredW="292" measuredH="51" zOrder="7" locked="false" isInGroup="40">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="30" y="236" w="561" h="143" measuredW="288" measuredH="51" zOrder="7" locked="false" isInGroup="40">
           <controlProperties>
             <text>%u7F16%u53F7%20%5E%2C%20%u54C1%u724C%20%5Ev%2C%20%u578B%u53F7%2C%20%u767B%u8BB0%u65F6%u95F4%20v%0A600123456789%2C%20%u5143%u6717%2C%20ABC123%2C%202014-6-1%0A%7B50L%2C%2010R%2C%2020%2C%2020C%7D</text>
           </controlProperties>
@@ -80,6 +71,11 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#main%20frame</src>
+      </controlProperties>
     </control>
   </controls>
 </mockup>
