@@ -2,7 +2,7 @@
   <controls>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="9" y="349" w="203" h="32" measuredW="180" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>1</selectedIndex>
+        <selectedIndex>0</selectedIndex>
         <size>18</size>
         <text>%u7701%u7535%2C%u6B63%u5E38%2C%u722C%u5761</text>
       </controlProperties>
@@ -14,7 +14,7 @@
     </control>
     <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="227" h="396" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>2848996</color>
+        <color>10470904</color>
       </controlProperties>
     </control>
     <control controlID="57" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="226" h="47" measuredW="36" measuredH="36" zOrder="3" locked="false" isInGroup="-1">
@@ -28,6 +28,9 @@
     </control>
     <control controlID="64" controlTypeID="com.balsamiq.mockups::Component" x="20" y="137" w="180" h="208" measuredW="180" measuredH="208" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="2">
+          <text>%u7EED%u822A%u91CC%u7A0B%uFF1A30%u5343%u7C73</text>
+        </override>
         <src>./assets/symbols.bmml#power cycle</src>
       </controlProperties>
     </control>
@@ -60,11 +63,6 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Alert" x="13" y="113" w="-1" h="-1" measuredW="200" measuredH="133" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%u8B66%u544A%0A%u5F00%u542F%u65E0%u7535%u7EED%u822A%u5C06%u7F29%u77ED%u7535%u6C60%u5BFF%u547D%uFF0C%u786E%u5B9A%u5F00%u542F%uFF1F%0A%u653E%u5F03%2C%20%u786E%u5B9A</text>
-      </controlProperties>
     </control>
   </controls>
 </mockup>

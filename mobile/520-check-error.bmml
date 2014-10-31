@@ -1,0 +1,32 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="223" measuredH="284" mockupW="223" mockupH="284">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="8" y="42" w="-1" h="-1" measuredW="215" measuredH="242" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>v%20%u68C0%u6D4B%u9879%u76EE1%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE2%2C%u901A%u8FC7%20%3E%0AX%20%u68C0%u6D4B%u9879%u76EE3%2C%u53D1%u751F%u5F02%u5E38%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE4%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE5%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE6%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE7%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE8%2C%u901A%u8FC7%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="46" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>%u5173%u95ED</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="83" y="1" w="-1" h="-1" measuredW="64" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%u8F66%u8F86%u68C0%u6D4B</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="177" y="0" w="-1" h="-1" measuredW="46" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>%u91CD%u68C0</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

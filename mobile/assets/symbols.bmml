@@ -1,0 +1,32 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="240" measuredH="228" mockupW="180" mockupH="208">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="180" h="208" measuredW="180" measuredH="208" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>power%20cycle</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="180" h="180" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>40463</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="16" y="15" w="149" h="148" measuredW="36" measuredH="36" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <icon>LightningIcon%7Cmedium</icon>
+            <size>18</size>
+            <text>100%25%0A%u5269%u4F59%u7535%u91CF</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="186" w="180" h="22" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>%u7EED%u822A%u91CC%u7A0B%uFF1A20%u5343%u7C73</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

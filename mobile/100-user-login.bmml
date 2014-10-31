@@ -1,24 +1,24 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="481" measuredH="282" mockupW="226" mockupH="166">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="226" measuredH="166" mockupW="226" mockupH="166">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="255" y="137" w="226" h="-1" measuredW="215" measuredH="68" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="21" w="226" h="-1" measuredW="215" measuredH="68" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <text>%u7528%u6237%u540D%uFF1A%2C%u8BF7%u8F93%u5165%u7535%u8BDD%u53F7%u7801%0A%u5BC6%u7801%uFF1A%2C%u8BF7%u8F93%u5165%u5BC6%u7801</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="342" y="116" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="87" y="0" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7528%u6237%u767B%u5F55</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="272" y="220" w="193" h="27" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="17" y="104" w="193" h="27" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <menuIcon>false</menuIcon>
         <text>%u767B%u5F55</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="272" y="255" w="193" h="27" measuredW="48" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="17" y="139" w="193" h="27" measuredW="48" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u6CE8%u518C</text>
       </controlProperties>

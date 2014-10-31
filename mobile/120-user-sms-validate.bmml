@@ -1,0 +1,48 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="251" measuredH="283" mockupW="220" mockupH="179">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="115" y="107" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u77ED%u4FE1%u9A8C%u8BC1</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="31" y="152" w="220" h="24" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>%u5DF2%u5C06%u9A8C%u8BC1%u7801%u53D1%u9001%u81F3%20%5B18912345678%5D%20%uFF0C%u8BF7%u8F93%u5165%u9A8C%u8BC1%u7801%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="83" y="173" w="151" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="31" y="176" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9A8C%u8BC1%u7801%uFF1A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="39" y="214" w="195" h="27" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>%u63D0%u4EA4</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="39" y="256" w="195" h="27" measuredW="127" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>SpinningIcon%7Cxsmall</icon>
+        <rotation>180</rotation>
+        <state>disabled</state>
+        <text>%20%2859%29%20%u91CD%u65B0%u53D1%u9001%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="31" y="104" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
