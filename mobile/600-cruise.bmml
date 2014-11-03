@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="252" measuredH="480" mockupW="224" mockupH="375">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="28" y="139" w="224" h="215" measuredW="411" measuredH="394" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/speed-gauge.png</src>
+        <text>%u901F%u5EA6</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::PointyButton" x="28" y="105" w="-1" h="-1" measuredW="46" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>%u5173%u95ED</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="354" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%u8F66%u8F86%u60C5%u51B5%uFF1A%u6B63%u5E38%0A%u7EED%u822A/%u6A21%u5F0F%uFF1A22km/%u7701%u7535%0A%u884C%u9A76%u91CC%u7A0B%uFF1A10300km%0A%u7535%u6C60%u7535%u538B%uFF1A48V</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::SubTitle" x="104" y="108" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%u8F66%u8F86%u5DE1%u822A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
