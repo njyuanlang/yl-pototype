@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="240" measuredH="228" mockupW="180" mockupH="208">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="264" measuredH="499" mockupW="215" mockupH="479">
   <controls>
     <control controlID="0" controlTypeID="__group__" x="60" y="20" w="180" h="208" measuredW="180" measuredH="208" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -24,6 +24,24 @@
             <align>center</align>
             <size>16</size>
             <text>%u7EED%u822A%u91CC%u7A0B%uFF1A20%u5343%u7C73</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="49" y="373" w="215" h="126" measuredW="215" measuredH="126" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>check%20list</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <text>v%20S1.1%20%u8F6C%u628A%2C%20%u901A%u8FC7%2C%0A-%20S1.2%20%u63A7%u5236%u5668%2C%20%u6545%u969C%0Av%20S1.3%20%u7535%u673A%2C%20%u901A%u8FC7%20%0A_%20S1.4%20%u5239%u8F66%2C%20%u68C0%u6D4B%u4E2D</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="94" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>SpinningIcon%7Csmall</icon>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

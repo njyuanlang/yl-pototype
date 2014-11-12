@@ -1,11 +1,5 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="223" measuredH="284" mockupW="223" mockupH="284">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="223" measuredH="168" mockupW="223" mockupH="168">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="8" y="42" w="-1" h="-1" measuredW="215" measuredH="242" zOrder="0" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <text>v%20%u68C0%u6D4B%u9879%u76EE1%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE2%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE3%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE4%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE5%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE6%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE7%2C%u901A%u8FC7%20%3E%0Av%20%u68C0%u6D4B%u9879%u76EE8%2C%u901A%u8FC7%20%3E</text>
-      </controlProperties>
-    </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="46" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
@@ -26,6 +20,11 @@
         <direction>center</direction>
         <newLayout>true</newLayout>
         <text>%u91CD%u68C0</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Component" x="8" y="42" w="215" h="126" measuredW="215" measuredH="126" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#check list</src>
       </controlProperties>
     </control>
   </controls>
