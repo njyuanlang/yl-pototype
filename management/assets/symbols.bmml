@@ -5,11 +5,11 @@
         <controlName>main%20frame</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="0" y="48" w="1024" h="720" measuredW="200" measuredH="513" zOrder="0" locked="false" isInGroup="0">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="0" y="48" w="1024" h="720" measuredW="200" measuredH="554" zOrder="0" locked="false" isInGroup="0">
           <controlProperties>
             <selectedIndex>-1</selectedIndex>
             <size>24</size>
-            <text>%u63A7%u5236%u9762%u677F%0A%u5BA2%u6237%u7BA1%u7406%0A%u8F66%u8F86%u7BA1%u7406%0A%u884C%u9A76%u8BB0%u5F55%0A%u6545%u969C%u68C0%u6D4B%0A%u8F66%u8F86%u5382%u5546%u7BA1%u7406%0A%u8F66%u8F86%u54C1%u724C%u7BA1%u7406%0A%u51FA%u5382%u8BBE%u5907%u7BA1%u7406%0A%u54C1%u724C%u7EDF%u8BA1%0A%u533A%u57DF%u7EDF%u8BA1%0A%u8D26%u6237%u7BA1%u7406</text>
+            <text>%u63A7%u5236%u9762%u677F%0A%u5BA2%u6237%u7BA1%u7406%0A%u8F66%u8F86%u7BA1%u7406%0A%u884C%u9A76%u8BB0%u5F55%0A%u6545%u969C%u68C0%u6D4B%0A%u8F66%u8F86%u5382%u5546%u7BA1%u7406%0A%u8F66%u8F86%u54C1%u724C%u7BA1%u7406%0A%u51FA%u5382%u8BBE%u5907%u7BA1%u7406%0A%u54C1%u724C%u7EDF%u8BA1%0A%u533A%u57DF%u7EDF%u8BA1%0A%u6545%u969C%u7EDF%u8BA1%0A%u8D26%u6237%u7BA1%u7406</text>
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="147" measuredH="48" zOrder="1" locked="false" isInGroup="0">
