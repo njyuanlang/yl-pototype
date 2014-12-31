@@ -42,10 +42,10 @@
         <controlName>client%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="299" measuredH="81" zOrder="0" locked="false" isInGroup="1">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="360" measuredH="81" zOrder="0" locked="false" isInGroup="1">
           <controlProperties>
             <align>left</align>
-            <text>%u59D3%u540D%20%5E%2C%20%u7535%u8BDD%20%5Ev%2C%20%u6CE8%u518C%u65F6%u95F4%2C%20%u767B%u8BB0%u8F66%u8F86%20v%0A%u5F20%u4E09%2C%2018912345678%2C%202014-06-12%2C%200%0A%u674E%u56DB%2C%2013987654321%2C%202014-05-30%2C%201%0A%7B40%2C%2020C%2C%2020R%2C%2020C%7D</text>
+            <text>%u59D3%u540D%20%5E%2C%20%u7535%u8BDD%2C%20%u5730%u5740%2C%20%u6CE8%u518C%u65F6%u95F4%2C%20%u767B%u8BB0%u8F66%u8F86%0A%u5F20%u4E09%2C%2018912345678%2C%20%u6C5F%u82CF%20%u5357%u4EAC%2C%202014-06-12%2C%200%0A%u674E%u56DB%2C%2013987654321%2C%20%u91CD%u5E86%20%u4E07%u5DDE%2C2014-05-30%2C%201</text>
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="849" h="59" measuredW="52" measuredH="52" zOrder="1" locked="false" isInGroup="1">
@@ -81,7 +81,7 @@
         <controlName>bike%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="439" measuredH="81" zOrder="0" locked="false" isInGroup="2">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="446" measuredH="81" zOrder="0" locked="false" isInGroup="2">
           <controlProperties>
             <align>left</align>
             <text>%u7F16%u53F7%20%5E%2C%20%u54C1%u724C%20%5Ev%2C%20%u578B%u53F7%2C%20%u6240%u5C5E%u4EBA%2C%u767B%u8BB0%u65F6%u95F4%2C%20%u767B%u8BB0%u5730%20v%0A600123456789%2C%20%u5143%u6717%2C%20ABC123%2C%2018912345678%2C%202014-6-1%2C%20%u5357%u4EAC%0A800123456789%2C%u6CDB%u76C8%2C%20DEF456%2C%2013987654321%2C%202014-10-3%2C%u5317%u4EAC%0A%7B40%2C%2010C%2C%2020R%2C%2020C%2C%2010R%7D</text>
@@ -113,7 +113,7 @@
             <text>%u5237%u65B0</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::DateChooser" x="395" y="18" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="5" locked="false" isInGroup="2">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::DateChooser" x="395" y="18" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="5" locked="false" isInGroup="2">
           <controlProperties>
             <state>up</state>
             <text>2014/10/31</text>
@@ -125,7 +125,7 @@
             <text>%u5BFC%u51FA%u660E%u7EC6</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="18" w="-1" h="-1" measuredW="105" measuredH="24" zOrder="7" locked="false" isInGroup="2">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="18" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="7" locked="false" isInGroup="2">
           <controlProperties>
             <state>up</state>
             <text>2014/10/1</text>
@@ -138,10 +138,10 @@
         <controlName>driving%20log%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="543" measuredH="81" zOrder="0" locked="false" isInGroup="3">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="592" measuredH="81" zOrder="0" locked="false" isInGroup="3">
           <controlProperties>
             <align>left</align>
-            <text>%u7F16%u53F7%20%5E%2C%20%u54C1%u724C%20%5Ev%2C%20%u578B%u53F7%2C%u65F6%u95F4%2C%20%u901F%u5EA6%2C%20%u7535%u538B%2C%u5269%u4F59%u7535%u91CF%2C%u8FD0%u884C%u6A21%u5F0F%2C%u57CE%u5E02%0A600123456789%2C%20%u5143%u6717%2C%20ABC123%2C%202014-6-1%2C%2020km/h%2C%2048V%2C%20100wh%2C%20%u6B63%u5E38%2C%20%u5357%u4EAC%0A800123456789%2C%u6CDB%u76C8%2C%20DEF456%2C%202014-10-3%2C10km/h%2C%2040V%2C%2050wh%2C%20%u7701%u7535%2C%20%u4E0A%u6D77</text>
+            <text>%u7F16%u53F7%20%5E%2C%20%u54C1%u724C%20%5Ev%2C%20%u578B%u53F7%2C%u65F6%u95F4%2C%20%u901F%u5EA6%2C%20%u7535%u538B%2C%u7535%u6D41%2C%u5269%u4F59%u7535%u91CF%2C%u8FD0%u884C%u6A21%u5F0F%2C%u57CE%u5E02%0A600123456789%2C%20%u5143%u6717%2C%20ABC123%2C%202014-6-1%2C%2020km/h%2C%2048V%2C%205A%2C100wh%2C%20%u6B63%u5E38%2C%20%u5357%u4EAC%0A800123456789%2C%u6CDB%u76C8%2C%20DEF456%2C%202014-10-3%2C10km/h%2C%2040V%2C%206.2A%2C50wh%2C%20%u7701%u7535%2C%20%u4E0A%u6D77</text>
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="849" h="59" measuredW="36" measuredH="36" zOrder="1" locked="false" isInGroup="3">
@@ -170,13 +170,13 @@
             <text>%u5237%u65B0</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::DateChooser" x="395" y="18" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="5" locked="false" isInGroup="3">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::DateChooser" x="395" y="18" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="5" locked="false" isInGroup="3">
           <controlProperties>
             <state>up</state>
             <text>2014/10/31</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="18" w="-1" h="-1" measuredW="105" measuredH="24" zOrder="6" locked="false" isInGroup="3">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="18" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="6" locked="false" isInGroup="3">
           <controlProperties>
             <state>up</state>
             <text>2014/10/1</text>
@@ -189,7 +189,7 @@
         <controlName>manufacturer%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="312" measuredH="81" zOrder="0" locked="false" isInGroup="5">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="317" measuredH="81" zOrder="0" locked="false" isInGroup="5">
           <controlProperties>
             <align>left</align>
             <text>%u5382%u5546%u540D%u79F0%20%5E%2C%20%u7535%u8BDD%20%5Ev%2C%20%u5730%u5740%2C%20%u6CE8%u518C%u65F6%u95F4%2C%20%0A%u5143%u6717%2C%2018912345678%2C%20%u5357%u4EAC%u5E02%2C%202014-06-12%0A%u6CDB%u76C8%2C%2013987654321%2C%20%u5317%u4EAC%u5E02%2C2014-05-30%0A%7B40%2C%2020C%2C%2020R%2C20%7D</text>
@@ -235,7 +235,7 @@
         <controlName>trademark%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="301" measuredH="81" zOrder="0" locked="false" isInGroup="6">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="303" measuredH="81" zOrder="0" locked="false" isInGroup="6">
           <controlProperties>
             <align>left</align>
             <text>%u54C1%u724C%u540D%u79F0%2C%u6240%u5C5E%u5382%u5546%20%5E%2C%20%u578B%u53F7%u6570%u91CF%2C%20%u6CE8%u518C%u65F6%u95F4%2C%20%0A%u5143%u6717%2C%u5143%u6717%2C%201%2C%20%202014-06-12%0A%u6CDB%u76C8%2C%u6CDB%u76C8%2C%202%2C%202014-05-30%0A%7B40%2C%2020C%2C%2020R%2C20%7D</text>
@@ -281,7 +281,7 @@
         <controlName>device%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="333" measuredH="81" zOrder="0" locked="false" isInGroup="7">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="342" measuredH="81" zOrder="0" locked="false" isInGroup="7">
           <controlProperties>
             <align>left</align>
             <text>%u8BBE%u5907%u7F16%u53F7%2C%20%u5185%u90E8%u578B%u53F7%2C%20%u51FA%u5382%u65F6%u95F4%2C%20%u6FC0%u6D3B%2C%20%u5236%u9020%u5546%0A600123456789%2CABC123%2C%202014-06-12%2C%20%5B%5D%2C%u5143%u6717%0A800123456789%2C%20DEF456%2C%202014-05-30%2C%20%5Bx%5D%2C%20%u6CDB%u76C8</text>
@@ -327,7 +327,7 @@
         <controlName>account%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="398" measuredH="81" zOrder="0" locked="false" isInGroup="8">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="404" measuredH="81" zOrder="0" locked="false" isInGroup="8">
           <controlProperties>
             <align>left</align>
             <text>%u7528%u6237%u540D%2C%u59D3%u540D%20%2C%20%u7535%u8BDD%20%2C%20%u7535%u5B50%u90AE%u4EF6%2C%u6CE8%u518C%u65F6%u95F4%0A0001%2C%u5F20%u4E09%2C%2018912345678%2C%200001@example.com%2C2014-06-12%0A0002%2C%u674E%u56DB%2C%2013987654321%2C0002@example.com%2C%202014-05-30</text>
@@ -373,10 +373,10 @@
         <controlName>fault%20log%20list</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="402" measuredH="81" zOrder="0" locked="false" isInGroup="9">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="59" w="849" h="635" measuredW="454" measuredH="81" zOrder="0" locked="false" isInGroup="9">
           <controlProperties>
             <align>left</align>
-            <text>%u68C0%u6D4B%u7ED3%u679C%2C%20%u54C1%u724C%20%2C%20%u578B%u53F7%2C%u65F6%u95F4%2C%20%u603B%u91CC%u7A0B%2C%u6545%u969C%u9879%u76EE%2C%20%u57CE%u5E02%0A%u6545%u969C%2C%20%u5143%u6717%2C%20ABC123%2C%202014-6-1%2C1200km%2C%202%2C%20%u5357%u4EAC%0A%u6B63%u5E38%2C%u6CDB%u76C8%2C%20DEF456%2C%202014-10-3%2C100km%2C%200%2C%20%u4E0A%u6D77</text>
+            <text>%u68C0%u6D4B%u7ED3%u679C%2C%20%u54C1%u724C%20%2C%20%u578B%u53F7%2C%u65F6%u95F4%2C%20%u603B%u91CC%u7A0B%2C%u6545%u969C%u9879%u76EE%2C%20%u4FEE%u590D%u7387%2C%u57CE%u5E02%0A%u6545%u969C%2C%20%u5143%u6717%2C%20ABC123%2C%202014-6-1%2C1200km%2C%202%2C%20%200%25%2C%20%u5357%u4EAC%0A%u6B63%u5E38%2C%u6CDB%u76C8%2C%20DEF456%2C%202014-10-3%2C100km%2C%200%2C%20100%25%2C%20%u4E0A%u6D77</text>
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="849" h="59" measuredW="36" measuredH="36" zOrder="1" locked="false" isInGroup="9">
@@ -405,13 +405,13 @@
             <text>%u5237%u65B0</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::DateChooser" x="395" y="18" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="5" locked="false" isInGroup="9">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::DateChooser" x="395" y="18" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="5" locked="false" isInGroup="9">
           <controlProperties>
             <state>up</state>
             <text>2014/10/31</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="18" w="-1" h="-1" measuredW="105" measuredH="24" zOrder="6" locked="false" isInGroup="9">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="18" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="6" locked="false" isInGroup="9">
           <controlProperties>
             <state>up</state>
             <text>2014/10/1</text>

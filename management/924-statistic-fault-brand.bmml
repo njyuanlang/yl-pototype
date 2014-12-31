@@ -12,7 +12,7 @@
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::DataGrid" x="177" y="425" w="817" h="303" measuredW="575" measuredH="81" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u65F6%u95F4%2C%u54C1%u724C%2C%20%u5730%u533A%20%2C%20%u8F6C%u628A%20%5Ev%2C%20%u8F6C%u628A%u5360%u6BD4%2C%u7535%u673A%2C%u7535%u673A%u5360%u6BD4%2C%20%u5239%u8F66%2C%20%u5239%u8F66%u5360%u6BD4%2C%20%u63A7%u5236%u5668%2C%20%u63A7%u5236%u5668%u5360%u6BD4%0A3%u4E2A%u6708%2C%u5168%u90E8%2C%20%u5168%u90E8%2C%2037%2C%2080%25%2C%2060%2C%2050%25%2C%20230%2C%2054%25%2C%2030%2C%2013%25%0A6%u4E2A%u6708%2C%u5168%u90E8%2C%u5168%u90E8%2C%205%2C%2015%25%2C%2020%2C%2030%25%2C%2060%2C%2018%25%2C%2032%2C%2018%25</text>
+        <text>%u65F6%u95F4%2C%u54C1%u724C%2C%20%u5730%u533A%20%2C%20%u8F6C%u628A%20%5Ev%2C%20%u8F6C%u628A%u5360%u6BD4%2C%u7535%u673A%2C%u7535%u673A%u5360%u6BD4%2C%20%u5239%u8F66%2C%20%u5239%u8F66%u5360%u6BD4%2C%20%u63A7%u5236%u5668%2C%20%u63A7%u5236%u5668%u5360%u6BD4%0A3%u4E2A%u6708%2C%u5143%u6717%2C%20%u5168%u90E8%2C%2037%2C%2080%25%2C%2060%2C%2050%25%2C%20230%2C%2054%25%2C%2030%2C%2013%25%0A6%u4E2A%u6708%2C%u5143%u6717%2C%u5168%u90E8%2C%205%2C%2015%25%2C%2020%2C%2030%25%2C%2060%2C%2018%25%2C%2032%2C%2018%25</text>
       </controlProperties>
     </control>
     <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="177" y="383" w="105" h="-1" measuredW="96" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
@@ -33,9 +33,9 @@
         <text>%u5168%u90E8%u6545%u969C%u7C7B%u578B</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::ComboBox" x="297" y="73" w="151" h="-1" measuredW="82" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::ComboBox" x="297" y="73" w="151" h="-1" measuredW="56" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u5168%u90E8%u54C1%u724C</text>
+        <text>%u5143%u6717</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::ComboBox" x="479" y="73" w="151" h="-1" measuredW="82" measuredH="24" zOrder="8" locked="false" isInGroup="-1">

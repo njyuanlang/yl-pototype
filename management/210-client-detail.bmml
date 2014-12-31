@@ -20,35 +20,35 @@
             <icon>CircledXIcon%7Cmedium</icon>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="110" y="131" w="319" h="-1" measuredW="94" measuredH="26" zOrder="3" locked="false" isInGroup="40">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="110" y="117" w="319" h="-1" measuredW="95" measuredH="27" zOrder="3" locked="false" isInGroup="40">
           <controlProperties>
             <text>13987654321</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="45" y="86" w="-1" h="-1" measuredW="162" measuredH="24" zOrder="4" locked="false" isInGroup="40">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="61" y="78" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="4" locked="false" isInGroup="40">
           <controlProperties>
             <size>16</size>
-            <text>%u7528%u6237%u540D%uFF1A13987654321</text>
+            <text>%u59D3%u540D%uFF1A%u5F20%u4E09</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="30" y="132" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="5" locked="false" isInGroup="40">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="30" y="118" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="5" locked="false" isInGroup="40">
           <controlProperties>
             <size>16</size>
             <text>%u8054%u7CFB%u7535%u8BDD%uFF1A</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="30" y="172" w="-1" h="-1" measuredW="167" measuredH="24" zOrder="6" locked="false" isInGroup="40">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="61" y="156" w="-1" h="-1" measuredW="112" measuredH="24" zOrder="6" locked="false" isInGroup="40">
           <controlProperties>
             <size>16</size>
-            <text>%u6CE8%u518C%u65F6%u95F4%uFF1A%202014-05-30</text>
+            <text>%u5730%u5740%uFF1A%u6C5F%u82CF%u5357%u4EAC</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="30" y="236" w="561" h="143" measuredW="288" measuredH="51" zOrder="7" locked="false" isInGroup="40">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="30" y="265" w="561" h="114" measuredW="292" measuredH="51" zOrder="7" locked="false" isInGroup="40">
           <controlProperties>
             <text>%u7F16%u53F7%20%5E%2C%20%u54C1%u724C%20%5Ev%2C%20%u578B%u53F7%2C%20%u767B%u8BB0%u65F6%u95F4%20v%0A600123456789%2C%20%u5143%u6717%2C%20ABC123%2C%202014-6-1%0A%7B50L%2C%2010R%2C%2020%2C%2020C%7D</text>
           </controlProperties>
         </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="30" y="205" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="8" locked="false" isInGroup="40">
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="30" y="231" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="8" locked="false" isInGroup="40">
           <controlProperties>
             <size>16</size>
             <text>%u767B%u8BB0%u8F66%u8F86%uFF1A</text>
@@ -68,6 +68,12 @@
         <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="119" y="418" w="140" h="27" measuredW="74" measuredH="27" zOrder="12" locked="false" isInGroup="40">
           <controlProperties>
             <text>%u4E0B%u6302%u8F66%u8F86</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="30" y="192" w="-1" h="-1" measuredW="172" measuredH="24" zOrder="13" locked="false" isInGroup="40">
+          <controlProperties>
+            <size>16</size>
+            <text>%u6CE8%u518C%u65F6%u95F4%uFF1A%202014-05-30</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
